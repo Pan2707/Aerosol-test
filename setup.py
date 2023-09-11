@@ -1,4 +1,4 @@
-#responsible for building ML appilcation as a package 
+##responsible for building ML appilcation as a package 
 
 from setuptools import find_packages,setup # find_packages automatically find all the packages available in the entire ML application
 from typing import List # funcion will retunr a list 
